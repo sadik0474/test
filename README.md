@@ -1,4 +1,4 @@
 # test
 
-this is my first program that is going commidadnda
-#i wanted to be good scientist`
+this is my first program that is going commit data
+#i wanted to be good data scientist`
